@@ -1,5 +1,5 @@
 # finding-the-indexes
-next try
+
 Having 1) the array of integers from the console input and 2) the particular number, 
 
 
